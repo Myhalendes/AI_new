@@ -1,3 +1,5 @@
+name: Provision Azure Batch
+
 on:
   push:
     branches:
